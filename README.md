@@ -1,5 +1,5 @@
 
-# Arabic Word Embeddings + Text Classification
+# Arabic Word Embeddings + Text Classification (AraNLP Bootcamp - SDAIA)
 
 ## Overview
 This project trains Arabic Word2Vec embeddings from scratch using a Twitter 
