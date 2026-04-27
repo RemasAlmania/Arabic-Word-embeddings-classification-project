@@ -2,7 +2,7 @@
 # Arabic Word Embeddings + Text Classification (AraNLP Bootcamp - SDAIA)
 
 ## Overview
-This project trains Arabic Word2Vec embeddings from scratch using a Twitter 
+This project trains Arabic Word2Vec embeddings using a Twitter 
 dataset, then uses these embeddings to build a sentiment classification model 
 in PyTorch.
 
